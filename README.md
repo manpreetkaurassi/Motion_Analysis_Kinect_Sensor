@@ -5,7 +5,8 @@ It combines both the Kinect motion capturing and biomechanics analysis and devel
 
 Output of the Kinect code. 
 On clicking start button, player will start the motion of the shot put throw. On completion, the joint points are stored in TEXT file
-![Image of Workflow-Data-Collection](https://github.com/manpreetkaurassi/Motion_Analysis_Kinect_Sensor/workflow_data_collection.png)
+
+![Image of Output-Image](https://github.com/manpreetkaurassi/Motion_Analysis_Kinect_Sensor/output_image.png)
 
 Algorithm for which coordinates are saved to a TEXT file
 
